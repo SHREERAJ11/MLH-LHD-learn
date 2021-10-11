@@ -1,2 +1,2 @@
-# PygameForBeginners
-A simple 2D python game designed to teach you the pygame module.
+# SPACESHIP BATTLE GAME
+A simple 2D dual battle game of spaceships
